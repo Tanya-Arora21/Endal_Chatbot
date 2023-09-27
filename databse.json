@@ -1,0 +1,551 @@
+[
+	{
+		"table_name": "hospital",
+		"data": [
+			{
+				"type": "Public",
+				"email": "acharya@example.com",
+				"location": "Moti Nagar",
+				"managed_by": "Government of NCT of Delhi",
+				"hospital_id": 1,
+				"phone_number": "123-456-7890",
+				"hospital_name": "Acharya Shree Bhikshu Hospital"
+			},
+			{
+				"type": "Private",
+				"email": "dharamshila@example.com",
+				"location": "Vasundhara Enclave",
+				"managed_by": "Narayana Health",
+				"hospital_id": 2,
+				"phone_number": "987-654-3210",
+				"hospital_name": "Dharamshila Narayana Superspeciality Hospital"
+			},
+			{
+				"type": "Public",
+				"email": "ramlohia@example.com",
+				"location": "Connaught Place",
+				"managed_by": "Government of India",
+				"hospital_id": 3,
+				"phone_number": "555-123-4567",
+				"hospital_name": "Dr. Ram Manohar Lohia Hospital"
+			},
+			{
+				"type": "Private",
+				"email": "fortis@example.com",
+				"location": "Okhla",
+				"managed_by": "Fortis Healthcare",
+				"hospital_id": 4,
+				"phone_number": "111-222-3333",
+				"hospital_name": "Fortis Escorts Heart Institute"
+			},
+			{
+				"type": "Private",
+				"email": "fortisrajandhall@example.com",
+				"location": "Vasant Kunj",
+				"managed_by": "Fortis Healthcare",
+				"hospital_id": 5,
+				"phone_number": "444-555-6666",
+				"hospital_name": "Fortis Flt. Lt. Rajan Dhall Hospital"
+			},
+			{
+				"type": "Private",
+				"email": "fortisshalimar@example.com",
+				"location": "Shalimar Bagh",
+				"managed_by": "Fortis Healthcare",
+				"hospital_id": 6,
+				"phone_number": "777-888-9999",
+				"hospital_name": "Fortis Hospital"
+			},
+			{
+				"type": "Private",
+				"email": "fortisfemme@example.com",
+				"location": "Greater Kailash",
+				"managed_by": "Fortis Healthcare",
+				"hospital_id": 7,
+				"phone_number": "999-888-7777",
+				"hospital_name": "Fortis La Femme"
+			},
+			{
+				"type": "Public",
+				"email": "govindpant@example.com",
+				"location": "Jawaharlal Nehru Marg",
+				"managed_by": "Government of NCT of Delhi",
+				"hospital_id": 8,
+				"phone_number": "222-333-4444",
+				"hospital_name": "Govind Ballabh Pant Hospital"
+			},
+			{
+				"type": "Public",
+				"email": "gurutegbahadur@example.com",
+				"location": "Dilshad Garden",
+				"managed_by": "Government of NCT of Delhi",
+				"hospital_id": 9,
+				"phone_number": "666-555-4444",
+				"hospital_name": "Guru Teg Bahadur Hospital"
+			},
+			{
+				"type": "Private",
+				"email": "holyfamily@example.com",
+				"location": "Okhla",
+				"managed_by": "Roman Catholic Archdiocese of Delhi",
+				"hospital_id": 10,
+				"phone_number": "444-333-2222",
+				"hospital_name": "Holy Family Hospital"
+			},
+			{
+				"type": "Private",
+				"email": "apollojasola@example.com",
+				"location": "Jasola Vihar",
+				"managed_by": "Apollo Hospitals",
+				"hospital_id": 11,
+				"phone_number": "555-666-7777",
+				"hospital_name": "Indraprastha Apollo Hospital"
+			},
+			{
+				"type": "Public",
+				"email": "lokayak@example.com",
+				"location": "Jawaharlal Nehru Marg",
+				"managed_by": "Government of NCT of Delhi",
+				"hospital_id": 12,
+				"phone_number": "666-777-8888",
+				"hospital_name": "Lok Nayak Hospital"
+			},
+			{
+				"type": "Private",
+				"email": "maharajaagrasen@example.com",
+				"location": "Punjabi Bagh",
+				"managed_by": "Maharaja Agrasen Hospital Charitable Trust",
+				"hospital_id": 13,
+				"phone_number": "111-111-1111",
+				"hospital_name": "Maharaja Agrasen Hospital"
+			},
+			{
+				"type": "Private",
+				"email": "maxmed@example.com",
+				"location": "Lajpat Nagar",
+				"managed_by": "Max Healthcare",
+				"hospital_id": 14,
+				"phone_number": "222-222-2222",
+				"hospital_name": "Max Med Centre & Institute of Cancer Care"
+			},
+			{
+				"type": "Private",
+				"email": "maxmultispecial@example.com",
+				"location": "Panchsheel Park",
+				"managed_by": "Max Healthcare",
+				"hospital_id": 15,
+				"phone_number": "333-333-3333",
+				"hospital_name": "Max Multi Speciality Centre"
+			},
+
+			{
+				"type": "Private",
+				"email": "maxsmartsuper@example.com",
+				"location": "Saket",
+				"managed_by": "Max Healthcare",
+				"hospital_id": 16,
+				"phone_number": "444-444-4444",
+				"hospital_name": "Max Smart Super Speciality Hospital"
+			},
+			{
+				"type": "Private",
+				"email": "maxsuperspecial@example.com",
+				"location": "Patparganj, Saket & Shalimar Bagh",
+				"managed_by": "Max Healthcare",
+				"hospital_id": 17,
+				"phone_number": "555-555-5555",
+				"hospital_name": "Max Super Speciality Hospital"
+			},
+			{
+				"type": "Private",
+				"email": "nationalheart@example.com",
+				"location": "East of Kailash",
+				"managed_by": null,
+				"hospital_id": 18,
+				"phone_number": "777-777-7777",
+				"hospital_name": "National Heart Institute"
+			},
+			{
+				"type": "Private",
+				"email": "parkhospital@example.com",
+				"location": "Chaukhandi",
+				"managed_by": "Park Group of Hospitals",
+				"hospital_id": 19,
+				"phone_number": "888-888-8888",
+				"hospital_name": "Park Hospital"
+			},
+			{
+				"type": "Private",
+				"email": "rajivgandhicancer@example.com",
+				"location": "Niti Bagh & Rohini",
+				"managed_by": "Indraprastha Cancer Society and Research Centre",
+				"hospital_id": 20,
+				"phone_number": "999-999-9999",
+				"hospital_name": "Rajiv Gandhi Cancer Institute and Research Centre"
+			},
+			{
+				"type": "Public",
+				"email": "rajivsuper@example.com",
+				"location": "Dilshad Garden",
+				"managed_by": "Government of NCT of Delhi",
+				"hospital_id": 21,
+				"phone_number": "333-666-9999",
+				"hospital_name": "Rajiv Gandhi Super Specialty Hospital"
+			},
+			{
+				"type": "Public",
+				"email": "safdarjung@example.com",
+				"location": "Ansari Nagar West",
+				"managed_by": "Government of India",
+				"hospital_id": 22,
+				"phone_number": "222-777-4444",
+				"hospital_name": "Safdarjung Hospital"
+			},
+			{
+				"type": "Private",
+				"email": "sanjeevan@example.com",
+				"location": "Daryaganj",
+				"managed_by": null,
+				"hospital_id": 23,
+				"phone_number": "666-333-9999",
+				"hospital_name": "Sanjeevan Hospital"
+			},
+			{
+				"type": "Private",
+				"email": "gangaram@example.com",
+				"location": "Rajinder Nagar",
+				"managed_by": null,
+				"hospital_id": 24,
+				"phone_number": "444-777-8888",
+				"hospital_name": "Sir Ganga Ram Hospital"
+			},
+			{
+				"type": "Private",
+				"email": "ststephens@example.com",
+				"location": "Tis Hazari",
+				"managed_by": null,
+				"hospital_id": 25,
+				"phone_number": "111-555-9999",
+				"hospital_name": "St. Stephen's Hospital"
+			}
+		]
+	},
+	{
+		"table_name": "machine_info",
+		"data": [
+			{
+				"asset_id": "MSN001",
+				"hospital_id": 1,
+				"machine_name": "CT SCANNER"
+			},
+			{
+				"asset_id": "MSN002",
+				"hospital_id": 1,
+				"machine_name": "CT SCANNER"
+			},
+			{
+				"asset_id": "MSN003",
+				"hospital_id": 2,
+				"machine_name": "MRI MACHINE"
+			},
+			{
+				"asset_id": "MSN004",
+				"hospital_id": 3,
+				"machine_name": "PET SCANNER"
+			},
+			{
+				"asset_id": "MSN005",
+				"hospital_id": 4,
+				"machine_name": "PET SCANNER"
+			},
+			{
+				"asset_id": "MSN006",
+				"hospital_id": 5,
+				"machine_name": "CT SCANNER"
+			},
+			{
+				"asset_id": "MSN007",
+				"hospital_id": 4,
+				"machine_name": "CT SCANNER"
+			},
+			{
+				"asset_id": "MSN008",
+				"hospital_id": 21,
+				"machine_name": "PET SCANNER"
+			},
+			{
+				"asset_id": "MSN009",
+				"hospital_id": 18,
+				"machine_name": "PET SCANNER"
+			},
+			{
+				"asset_id": "MSN010",
+				"hospital_id": 10,
+				"machine_name": "CT SCANNER"
+			},
+			{
+				"asset_id": "MSN011",
+				"hospital_id": 12,
+				"machine_name": "MRI MACHINE"
+			},
+			{
+				"asset_id": "MSN012",
+				"hospital_id": 14,
+				"machine_name": "MRI MACHINE"
+			},
+			{
+				"asset_id": "MSN013",
+				"hospital_id": 25,
+				"machine_name": "CT SCANNER"
+			},
+			{
+				"asset_id": "MSN014",
+				"hospital_id": 25,
+				"machine_name": "MRI MACHINE"
+			},
+			{
+				"asset_id": "MSN015",
+				"hospital_id": 6,
+				"machine_name": "CT SCANNER"
+			},
+			{
+				"asset_id": "MSN016",
+				"hospital_id": 7,
+				"machine_name": "MRI MACHINE"
+			},
+			{
+				"asset_id": "MSN017",
+				"hospital_id": 8,
+				"machine_name": "MRI MACHINE"
+			},
+			{
+				"asset_id": "MSN018",
+				"hospital_id": 11,
+				"machine_name": "MRI MACHINE"
+			},
+			{
+				"asset_id": "MSN019",
+				"hospital_id": 17,
+				"machine_name": "CT SCANNER"
+			},
+			{
+				"asset_id": "MSN020",
+				"hospital_id": 23,
+				"machine_name": "CT SCANNER"
+			}
+		]
+	},
+	{
+		"table_name": "error_codes_solutions",
+		"data": [
+			{
+				"fix_by": "Customer",
+				"error_id": 1,
+				"error_code": "E001",
+				"solution_details": "Replaced malfunctioning DVD writer with a new one.",
+				"error_description": "CT Scanner DVD Writer Not Working"
+			},
+			{
+				"fix_by": "Customer",
+				"error_id": 2,
+				"error_code": "E002",
+				"solution_details": "Calibrated the MRI machine to stabilize the magnetic field.",
+				"error_description": "MRI Machine Magnetic Field Instability"
+			},
+			{
+				"fix_by": "Customer",
+				"error_id": 3,
+				"error_code": "E003",
+				"solution_details": "Cleaned X-ray sensor and recalibrated to eliminate artifacts.",
+				"error_description": "X-Ray Machine Image Artifacts"
+			},
+			{
+				"fix_by": "Service Executive",
+				"error_id": 4,
+				"error_code": "E004",
+				"solution_details": "Fixed loose cable connection to restore image display.",
+				"error_description": "Ultrasound Machine No Image Display"
+			},
+			{
+				"fix_by": "Customer",
+				"error_id": 5,
+				"error_code": "E005",
+				"solution_details": "Applied software patch to resolve the crash issue.",
+				"error_description": "EMR System Software Crash"
+			},
+			{
+				"fix_by": "Service Executive",
+				"error_id": 6,
+				"error_code": "E006",
+				"solution_details": "Restored data from backup to recover lost patient records.",
+				"error_description": "PACS System Data Loss"
+			},
+			{
+				"fix_by": "Customer",
+				"error_id": 7,
+				"error_code": "E007",
+				"solution_details": "Replaced faulty blood pressure sensor for accurate readings.",
+				"error_description": "Blood Pressure Monitor Inaccurate Readings"
+			},
+			{
+				"fix_by": "Service Executive",
+				"error_id": 8,
+				"error_code": "E008",
+				"solution_details": "Repaired alarm system to ensure proper monitoring.",
+				"error_description": "Ventilator Machine Alarm Malfunction"
+			},
+			{
+				"fix_by": "Customer",
+				"error_id": 9,
+				"error_code": "E009",
+				"solution_details": "Fixed the gas leak by replacing damaged components.",
+				"error_description": "Anesthesia Machine Gas Leak"
+			},
+			{
+				"fix_by": "Service Executive",
+				"error_id": 10,
+				"error_code": "E010",
+				"solution_details": "Calibrated the lab analyzer for accurate test results.",
+				"error_description": "Lab Analyzer Instrument Calibration Issue"
+			},
+			{
+				"fix_by": "Service Executive",
+				"error_id": 11,
+				"error_code": "E011",
+				"solution_details": "Replaced the malfunctioning monitor display.",
+				"error_description": "Patient Monitor Display Flickering"
+			},
+			{
+				"fix_by": "Customer",
+				"error_id": 12,
+				"error_code": "E012",
+				"solution_details": "Reconfigured the robot arm for smooth movement.",
+				"error_description": "Surgical Robot Arm Jitter"
+			},
+			{
+				"fix_by": "Service Executive",
+				"error_id": 13,
+				"error_code": "E013",
+				"solution_details": "Replaced the faulty pump to restore normal operation.",
+				"error_description": "Dialysis Machine Pump Failure"
+			},
+			{
+				"fix_by": "Customer",
+				"error_id": 14,
+				"error_code": "E014",
+				"solution_details": "Upgraded software and increased system memory to prevent freezing.",
+				"error_description": "Medical Cart Computer Freezing"
+			},
+			{
+				"fix_by": "Customer",
+				"error_id": 15,
+				"error_code": "E015",
+				"solution_details": "Resolved network issues to ensure seamless communication.",
+				"error_description": "Hospital Network Connectivity Issues"
+			},
+			{
+				"fix_by": "Customer",
+				"error_id": 16,
+				"error_code": "E016",
+				"solution_details": "Cleaned and maintained the endoscopy camera for improved image quality.",
+				"error_description": "Endoscopy System Image Quality Degradation"
+			},
+			{
+				"fix_by": "Customer",
+				"error_id": 17,
+				"error_code": "E017",
+				"solution_details": "Repaired the bed actuator for smooth height adjustment.",
+				"error_description": "Patient Bed Actuator Malfunction"
+			},
+			{
+				"fix_by": "Customer",
+				"error_id": 18,
+				"error_code": "E018",
+				"solution_details": "Reattached loose electrodes to improve signal connection.",
+				"error_description": "EKG Machine Electrode Connection Problem"
+			},
+			{
+				"fix_by": "Customer",
+				"error_id": 19,
+				"error_code": "E019",
+				"solution_details": "Recalibrated the machine for precise radiation therapy.",
+				"error_description": "Radiation Therapy Machine Calibration Error"
+			},
+			{
+				"fix_by": "Customer",
+				"error_id": 20,
+				"error_code": "E020",
+				"solution_details": "Replaced the worn-out battery in the syringe pump.",
+				"error_description": "Syringe Pump Battery Failure"
+			}
+		]
+	},
+	{
+		"table_name": "problem_history_db",
+		"data": [
+			{
+				"fix_by": "Customer",
+				"asset_id": "MSN001",
+				"error_id": 1,
+				"solution": "Replaced malfunctioning DVD writer with a new one.",
+				"problem_id": 1,
+				"hospital_id": 1,
+				"report_date": "2019-08-02",
+				"problem_description": "CT Scanner DVD Writer Not Working"
+			},
+			{
+				"fix_by": "Customer",
+				"asset_id": "MSN006",
+				"error_id": 1,
+				"solution": "Replaced malfunctioning DVD writer with a new one.",
+				"problem_id": 2,
+				"hospital_id": 5,
+				"report_date": "2021-05-02",
+				"problem_description": "CT Scanner DVD Writer Not Working"
+			},
+			{
+				"fix_by": "Service Executive",
+				"asset_id": "MSN004",
+				"error_id": 10,
+				"solution": "Calibrated the lab analyzer for accurate test results.",
+				"problem_id": 3,
+				"hospital_id": 3,
+				"report_date": "2023-09-01",
+				"problem_description": "Lab Analyzer Instrument Calibration Issue"
+			},
+			{
+				"fix_by": "Customer",
+				"asset_id": "MSN009",
+				"error_id": 9,
+				"solution": "Fixed the gas leak by replacing damaged components.",
+				"problem_id": 4,
+				"hospital_id": 18,
+				"report_date": "2022-03-11",
+				"problem_description": "Anesthesia Machine Gas Leak"
+			},
+			{
+				"fix_by": "Customer",
+				"asset_id": "MSN017",
+				"error_id": 2,
+				"solution": "Calibrated the MRI machine to stabilize the magnetic field.",
+				"problem_id": 5,
+				"hospital_id": 8,
+				"report_date": "2023-05-21",
+				"problem_description": "MRI Machine Magnetic Field Instability"
+			},
+			{
+				"fix_by": "Service Executive",
+				"asset_id": "MSN003",
+				"error_id": 13,
+				"solution": "Replaced the faulty pump to restore normal operation.",
+				"problem_id": 6,
+				"hospital_id": 2,
+				"report_date": "2015-11-06",
+				"problem_description": "Dialysis Machine Pump Failure"
+			}
+		]
+	}
+	
+	
+]
+
