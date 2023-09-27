@@ -6,7 +6,7 @@ import sys
 import os
 
 # Set your OpenAI API key here
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = 'OPEN API KEY'
 
 class ChatbotApp:
     def __init__(self, root, directory_path):
